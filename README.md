@@ -1,5 +1,5 @@
 
-#📊 Detecção de Fraude em Cartões de Crédito
+📊 #Detecção de Fraude em Cartões de Crédito
 
 Este projeto tem como objetivo analisar e construir um modelo de aprendizado de máquina (Machine Learning) para identificar transações fraudulentas em cartões de crédito.
 
